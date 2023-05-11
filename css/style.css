@@ -1,0 +1,10 @@
+:root {
+    --raisin-black: #28262cff;
+    --tropical-indigo: #998fc7ff;
+    --periwinkle: #d4c2fcff;
+    --amethyst: #8960b5ff;
+    --pale-purple: #ffe9ffff;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
